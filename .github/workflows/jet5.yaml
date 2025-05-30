@@ -4,7 +4,7 @@ on: push
 
 jobs:
   check_cpu:
-    runs-on: buildjet-8vcpu-ubuntu-2204 # Ganti dengan runner BuildJet yang ingin Anda cek
+    runs-on: buildjet-8vcpu-ubuntu-2004 # Ganti dengan runner BuildJet yang ingin Anda cek
 
     steps:
     - name: Checkout code
