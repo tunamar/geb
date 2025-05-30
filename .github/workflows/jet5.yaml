@@ -1,4 +1,4 @@
-name: Check vCPU on BuildJett
+name: Check vCPU on BuildJet
 
 on: push
 
